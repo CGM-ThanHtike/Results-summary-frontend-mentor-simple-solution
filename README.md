@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/simple-solution-for-simple-layout-O6Q_bynzgz)
-- Live Site URL: [Add live site URL here](https://cgm-thanhtike.github.io/Results-summary-frontend-mentor-simple-solution/)
+- Solution URL: [Click to check my solution at Frontend Mentor](https://www.frontendmentor.io/solutions/simple-solution-for-simple-layout-O6Q_bynzgz)
+- Live Site URL: [Click to check the live site](https://cgm-thanhtike.github.io/Results-summary-frontend-mentor-simple-solution/)
 
 ## My process
 
@@ -62,7 +62,7 @@ I have learnt how to make a beautiful card design
 
 ## Author
 
-- Website - [Than Htike](https://github.com/CGM-ThanHtike)
-- Frontend Mentor - [@thanhtike](https://www.frontendmentor.io/profile/CGM-ThanHtike)
+- Website - [My git-hub profile](https://github.com/CGM-ThanHtike)
+- Frontend Mentor - [My Frontend Mentor profile](https://www.frontendmentor.io/profile/CGM-ThanHtike)
 
 **Thank you all!** 🚀
