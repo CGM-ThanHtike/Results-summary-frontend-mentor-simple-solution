@@ -3,15 +3,6 @@
 
 :root {
   --shadow-color: 241 30% 92%;
-  --shadow-elevation-low:
-    0.3px 0.5px 0.7px hsl(var(--shadow-color) / 0.24),
-    0.4px 0.8px 1.1px -1px hsl(var(--shadow-color) / 0.28),
-    0.9px 1.9px 2.5px -2px hsl(var(--shadow-color) / 0.32);
-  --shadow-elevation-medium:
-    0.3px 0.5px 0.7px hsl(var(--shadow-color) / 0.25),
-    0.9px 1.7px 2.3px -0.7px hsl(var(--shadow-color) / 0.28),
-    2px 4px 5.4px -1.3px hsl(var(--shadow-color) / 0.32),
-    4.7px 9.4px 12.6px -2px hsl(var(--shadow-color) / 0.35);
   --shadow-elevation-high:
     0.3px 0.5px 0.7px hsl(var(--shadow-color) / 0.23),
     1.5px 3px 4px -0.3px hsl(var(--shadow-color) / 0.25),
@@ -21,18 +12,6 @@
     10.2px 20.3px 27.3px -1.4px hsl(var(--shadow-color) / 0.31),
     15.1px 30.3px 40.6px -1.7px hsl(var(--shadow-color) / 0.32),
     22px 44px 59px -2px hsl(var(--shadow-color) / 0.34);
-}
-
-/* attribution */
-.attribution {
-  position: fixed;
-  bottom: 32px;
-  font-size: 11px;
-  text-align: center;
-}
-
-.attribution a {
-  color: hsl(228, 45%, 44%);
 }
 
 /* Utilities classes */
@@ -100,6 +79,7 @@
   background: linear-gradient(0deg, hsla(241, 72%, 46%, 0) 0%, hsla(256, 72%, 46%, 1) 100%);
 }
 
+/* styles */
 body {
   font-family: 'Hanken Grotesk', sans-serif;
   font-size: 18px;
@@ -120,6 +100,7 @@ body {
   box-shadow: var(--shadow-elevation-high);
 }
 
+/* left card */
 .left-card,
 .right-card {
   padding: 2rem;
@@ -211,8 +192,8 @@ body {
   background: linear-gradient(0deg, hsl(241, 81%, 54%) 0%, hsl(252, 100%, 67%) 100%);
 }
 
+/* responsive */
 @media (max-width: 768px) {
-
   .flex {
     flex-wrap: wrap;
   }
@@ -226,5 +207,4 @@ body {
     flex: 1 1 100%;
     max-width: 100%;
   }
-
 }
