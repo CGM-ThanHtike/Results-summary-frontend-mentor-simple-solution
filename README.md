@@ -1,13 +1,8 @@
+# Welcome! 👋
 
-## Welcome! 👋
+"Thanks for checking out this front-end coding challenge."
 
-Thanks for checking out this front-end coding challenge.
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
-
-# Frontend Mentor - Results summary component solution
-
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+"This is my first challenge here. If you have any suggestions or feedback for my code, please feel free to comment. I would greatly appreciate all feedback."
 
 ## Table of contents
 
